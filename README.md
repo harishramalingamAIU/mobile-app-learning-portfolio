@@ -233,7 +233,6 @@ The Module 1 folder contains:
 - Screenshots of application output
 - Learning notes
 
-**Analysis:** See [`analysis.md`](analysis.md), Module 1 section.
 
 ---
 
@@ -249,7 +248,6 @@ The Module 2 folder contains:
 - Application screenshots
 - Learning notes
 
-**Analysis:** See [`analysis.md`](analysis.md), Module 2 section.
 
 ---
 
@@ -266,7 +264,6 @@ The Module 3 folder contains:
 - Application screenshots
 - Learning notes
 
-**Analysis:** See [`analysis.md`](analysis.md), Module 3 section.
 
 ---
 
@@ -284,7 +281,6 @@ The Module 4 folder contains:
 - Screenshots of application output
 - Learning notes
 
-**Analysis:** See [`analysis.md`](analysis.md), Module 4 section.
 
 ---
 
@@ -356,8 +352,6 @@ Through the four modules, the portfolio demonstrates learning in:
 ---
 
 # Analysis and Reflection
-
-The accompanying [`analysis.md`](analysis.md) analyses the techniques introduced across all four units.
 
 The analysis focuses on:
 
