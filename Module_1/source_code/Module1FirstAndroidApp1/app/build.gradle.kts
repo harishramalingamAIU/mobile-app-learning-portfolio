@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "my.edu.aiu.app.module4navigationarchitecture"
+    namespace = "my.edu.aiu.app.module1firstandroidapp1"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "my.edu.aiu.app.module4navigationarchitecture"
+        applicationId = "my.edu.aiu.app.module1firstandroidapp1"
         minSdk = 25
         targetSdk = 37
         versionCode = 1
@@ -51,6 +51,4 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
     debugImplementation(libs.androidx.compose.ui.tooling)
-    implementation("androidx.navigation:navigation-compose:2.8.5")
-    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7")
 }
